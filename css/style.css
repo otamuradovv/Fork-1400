@@ -41,7 +41,41 @@ ul{
 
 
 /* info start */
-
+.info__cards {
+    display: flex;
+    justify-content: space-between;
+}
+.info__cards__card-title {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 44px;
+    color: #692340;
+    margin: 180px 0 22px;
+}
+.info__cards__card-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #692340;
+}
+.info__cards__card-tex {
+    max-width: 430px;
+    width: 100%;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #692340;
+    margin: 22px 0 13px;
+}
+.info__cards__image-img {
+    margin: 100px 0 0 0;
+}
+.info__cards__card-span {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    margin: 16px 0 0 0;
+}
 
 
 /* info end */
