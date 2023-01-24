@@ -50,7 +50,7 @@ ul{
     font-size: 40px;
     line-height: 44px;
     color: #692340;
-    margin: 0 0 22px;
+    margin: 180px 0 22px;
 }
 .info__cards__card-text {
     font-weight: 400;
@@ -79,11 +79,19 @@ ul{
 .info__logo {
     margin: 178px 0 43px 0;
 }
-/* .info__logo-img {
-    margin: 178px 0 43px 0;
-} */
-
-
+.info__cards-card {
+    margin: 181 0 0 0;
+}
+.info__logo-img {
+    margin: 140px 0 0 0;
+}
+.info__cards__card-titlee  {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 44px;
+    color: #692340;
+    margin: 43px 0 22px;
+}
 /* info end */
 
 
